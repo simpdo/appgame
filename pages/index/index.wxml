@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="nickname">    
+        <text class="nicknameLabel">昵称: </text> 
+        <input class="nicknameText" placeholder="{{userInfo.nickName}}" maxlength="24" focus="true"/>
+    </view>
+    
+    <button id="enterbtn" type="primary" bindtap="enterGame">进入游戏</button>  
+</view>

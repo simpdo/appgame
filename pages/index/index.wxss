@@ -1,0 +1,21 @@
+/**index.wxss**/
+
+.nickname {
+    display: -webkit-flex;
+    display: flex;
+    position: absolute;
+    top: 30%;
+}
+
+.nicknameLabel{
+    flex:1;
+}
+
+.nicknameText {
+    flex:2;
+}
+
+#enterbtn {
+    position: absolute;
+    bottom: 35%;
+}

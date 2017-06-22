@@ -1,0 +1,8 @@
+<!--hall.wxml-->
+<view class="container">
+    <view class="tabBar">
+        <button class="tabItem" type="primary">游戏</button>
+        <button class="tabItem" type="primary">商城</button>
+        <button class="tabItem" type="primary">任务</button>
+    </view>
+</view>
